@@ -1,6 +1,5 @@
-Olá! Eu sou o Jv
-
-- 👨‍🎓 I’m currently studying software engineer
+Olá! Eu sou o Jv, futuro engenheiro de software! 
+I’m currently studying BICT - Bacharelado interdisciplinar em inovação ciência e tecnologia - como curso de primeiro ciclo, após a conclusão irei realizar como segundo ciclo engenharia de software.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jugrux&show_icons=true&theme=chartreuse-dark)
 
